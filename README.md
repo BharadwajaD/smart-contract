@@ -1,8 +1,8 @@
 ## Setup
 
 1. Install Rust Tools: https://www.rust-lang.org/tools/install
-2. Install tool for building wasm: ``` bash rustup target add wasm32-unknown-unknown```
-3. Install cosmwasm-check: ```bash rustup target add wasm32-unknown-unknown```
+2. Install tool for building wasm: ```rustup target add wasm32-unknown-unknown```
+3. Install cosmwasm-check: ```rustup target add wasm32-unknown-unknown```
 
 ## Create and Test
 
