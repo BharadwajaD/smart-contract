@@ -713,7 +713,9 @@ version = "0.1.0"
 dependencies = [
  "cosmwasm-std",
  "cw-multi-test",
+ "cw-storage-plus",
  "serde",
+ "thiserror",
 ]
 
 [[package]]
